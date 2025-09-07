@@ -48,16 +48,7 @@ ORM: SQLAlchemy 2.0
 
 Docs: Flasgger (Swagger UI)
 
-📂 Project Structure
-personal_finance_tracker/
-│── main.py                 # Application entry point
-│── models/                 # SQLAlchemy models
-│── schemas/                # Marshmallow schemas
-│── resources/              # API endpoints
-📖 API Documentation
 
 Swagger UI available at:
 👉 pythongvb.pythonanywhere.com/apidocs/
-│── requirements.txt        # Project dependencies
-│── README.md               # Documentation
-│── .env                    # Environment variables
+
